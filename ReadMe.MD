@@ -1,1 +1,1 @@
-##This is an example code block to use custom images in a simple CNN architecture.
+## This is an example code block to use custom images in a simple CNN architecture.
